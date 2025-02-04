@@ -51,3 +51,10 @@ A simple Daily Task Planner Application built using Python's `tkinter` library. 
 - Python 3.x
   
 - `tkinter` library (included with Python by default)
+
+## GUI Display:
+![Adding Task](Screenshots/AddingTask.png)
+![Marking Tasks](Screenshots/MarkingTasks.png)
+![Task Added](Screenshots/TaskAdded.png)
+![TaskScheduler](Screenshots/TaskScheduler.png)
+
